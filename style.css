@@ -31,6 +31,9 @@ body{
 h1,h2,h3,h4,h5,h6{
 	font-weight:500;
 }
+h2{
+	color: white;
+}
 a,button{
 	-webkit-transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
@@ -949,10 +952,13 @@ a:hover{
 	font-size:36px;
 	margin-bottom:65px;
 }
+.click{
+	color: blue;
+}
 .testimonials .single-testimonial p {
-	color: #fff;
+	color: black;
 	font-size: 18px;
-	color: #f5f5f5;
+	color: black;
 	position: relative;
 	margin-left: 115px;
 	margin-top: 70px;
